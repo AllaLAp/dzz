@@ -1,4 +1,4 @@
-#Внизу моё дз
+#Внизу кода моё дз
 '''def strcounter(string):
     for symbol in string:
         counter = 0
