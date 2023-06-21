@@ -1,0 +1,36 @@
+h1 {
+    background: red;
+}
+
+.p-1 {
+    background: blue;
+    color: green;
+    font-size: 32pt;
+}
+
+.p-2 {
+    border: 10px solid yellow;
+    font-size: 24pt;
+    border-radius: 5px;
+    margin-bottom: 60px;
+    padding-left: 20px;
+}
+.p-3 {
+    font-weight: bold;
+    font-family: Courier New;
+}
+
+.p-4 {
+    font-style: oblique;
+    width: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    text-shadow: 0.1em 0.1em 0.15em #8db600;
+}
+
+.image {
+    display:block;
+    margin:auto;
+}
+
